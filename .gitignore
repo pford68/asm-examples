@@ -1,8 +1,11 @@
-# IntelliJ
+## IntelliJ ##
 .idea
 *.iml
 build
 
-# Gradle
+## Mac OS ##
+.DS_Store
+
+## Gradle ##
 .gradle
 gradle
