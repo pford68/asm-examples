@@ -1,4 +1,4 @@
-group 'macedon'
+group 'com.macedon'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
