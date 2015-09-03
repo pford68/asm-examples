@@ -2,6 +2,8 @@ package com.macedon.asm;
 
 /**
  * Created by Philip Ford on 9/2/2015.
+ *
+ * See http://www.javacodegeeks.com/2012/02/manipulating-java-class-files-with-asm.html
  */
 import java.io.IOException;
 import java.io.InputStream;
